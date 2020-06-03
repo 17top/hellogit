@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61048c83-501a-459c-9d33-398ddc2c3f88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloGit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1cnOshkPhCdrzh5fkeNSlp0YSFX" />
@@ -80,6 +78,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加文件" />
     <option name="LAST_COMMIT_MESSAGE" value="添加文件" />
@@ -89,10 +98,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591161594509" />
-    <state x="558" y="27" key="CommitChangelistDialog2" timestamp="1591162061636">
+    <state x="558" y="27" key="CommitChangelistDialog2" timestamp="1591162799515">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="27" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162061636" />
+    <state x="558" y="27" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162799515" />
     <state x="749" y="157" key="RollbackChangesDialog" timestamp="1591161965568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -101,5 +110,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591161202279" />
+    <state x="714" y="150" key="git4idea.branch.GitSmartOperationDialog" timestamp="1591162867106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="150" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162867106" />
+    <state x="739" y="299" key="git4idea.merge.GitMergeDialog" timestamp="1591162991134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="299" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162991134" />
   </component>
 </project>
