@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="61048c83-501a-459c-9d33-398ddc2c3f88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/git/HelloGit.java" afterDir="false" />
+    </list>
+    <list default="true" id="61048c83-501a-459c-9d33-398ddc2c3f88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591161098725</updated>
-      <workItem from="1591161102914" duration="1287000" />
+      <workItem from="1591161102914" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="添加文件">
       <created>1591162063825</created>
@@ -72,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591162063825</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新1">
+      <created>1591162452379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591162452379</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新3">
+      <created>1591162498014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591162498014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,25 +101,52 @@
       <map>
         <entry key="1">
           <value>
-            <State />
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/git教学/git—workspace/HelloGit" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加文件" />
+    <MESSAGE value="更新1" />
+    <MESSAGE value="更新3" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Project_Structure" timestamp="1591161594509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591161594509" />
-    <state x="558" y="27" key="CommitChangelistDialog2" timestamp="1591162799515">
+    <state x="558" y="27" key="CommitChangelistDialog2" timestamp="1591162061636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="27" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162799515" />
+    <state x="558" y="27" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162061636" />
     <state x="749" y="157" key="RollbackChangesDialog" timestamp="1591161965568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -110,13 +155,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591161202279" />
-    <state x="714" y="150" key="git4idea.branch.GitSmartOperationDialog" timestamp="1591162867106">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="714" y="150" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162867106" />
-    <state x="739" y="299" key="git4idea.merge.GitMergeDialog" timestamp="1591162991134">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="739" y="299" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591162991134" />
   </component>
 </project>
